@@ -2,10 +2,10 @@
 Business &amp; Data Analytics Portfolio
 
 
-# Project 1: Sales Performance & Channel Analysis Dashboard
-*Business Intelligence Case Study (Excel & Power BI)*
+# 📊 Project 1: Sales Performance & Channel Analysis Dashboard
 
-# 1.1 Project Background
+## 1.1 Project Background
+
 Tripio, established in 2022 is a mid-sized transportation technology platform operating in multiple cities, connecting passengers with intercity and inter-province travel services in Indonesia. The business focus is to drive digital transformation and bring more and more new passengers to book their transportation tickets online.
 From business analyst perspective, the main challenge is not the lack of data, but the lack of structured visibility. Sales data exists in operational files, but decision makers often rely on manual Excel reports that are time-consuming to prepare and difficult to explore.
 This project was created to turn raw transactional data into a decision-ready dashboard that stakeholders can use to quickly understand performance, detect problems, and identify growth opportunities.
@@ -18,8 +18,9 @@ Insights and recommendations are provided on the following key areas:
 - **Field Activation Program Success:** An assessment of the customers offline acquisition on field on customers acquisitions and sales.
 - **Regional Comparison:** An evaluation of sales and ticket sold by region.
 
-# 1.2 Data Structure & Initial Checks
+## 1.2 Data Structure & Initial Checks
 
+Tripio's database structure as seen below consists of four tables: orders, customers, geo_lookup, order_status, with a total row count o 108,127 records. (lo attach entity relationship diagram yen di canva buatnya)
 The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
 - **Table 2:**
 - **Table 3:**
@@ -28,9 +29,7 @@ The companies main database structure as seen below consists of four tables: tab
 
 [Entity Relationship Diagram here]
 
-
-
-# Executive Summary
+## 1.3 Executive Summary
 
 ### Overview of Findings
 

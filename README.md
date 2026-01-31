@@ -12,10 +12,10 @@ This project was created to turn raw transactional data into a decision-ready da
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Category 1: Sales Trend & Seasonality** 
+- **Category 2: Channel Performance** 
+- **Category 3: Regional Performance** 
+- **Category 4: Revenue Quality** 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 

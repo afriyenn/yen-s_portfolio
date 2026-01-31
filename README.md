@@ -5,7 +5,7 @@ Business &amp; Data Analytics Portfolio
 # Project 1: Sales Performance & Channel Analysis Dashboard
 *Business Intelligence Case Study (Excel & Power BI)*
 
-# Project Background
+# 1.1 Project Background
 The company is a mid-sized transportation technology platform operating in multiple cities, connecting passengers with intercity and inter-province travel services in Indonesia. The business focus is to drive digital transformation and bring more and more new passengers to book their transportation tickets online.
 From business analyst perspective, the main challenge is not the lack of data, but the lack of structured visibility. Sales data exists in operational files, but decision makers often rely on manual Excel reports that are time-consuming to prepare and difficult to explore.
 This project was created to turn raw transactional data into a decision-ready dashboard that stakeholders can use to quickly understand performance, detect problems, and identify growth opportunities.
@@ -17,15 +17,7 @@ Insights and recommendations are provided on the following key areas:
 - **Category 3: Regional Performance** 
 - **Category 4: Revenue Quality** 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
-
-
-# Data Structure & Initial Checks
+# 1.2 Data Structure & Initial Checks
 
 The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
 - **Table 2:**

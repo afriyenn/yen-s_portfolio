@@ -31,9 +31,12 @@ The companies main database structure as seen below consists of four tables: tab
 
 ## 1.3 Executive Summary
 
-### Overview of Findings
+### a. Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+After peaking in late 2020, the company's sales have continued to decline, with 
+
+**
+Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.**
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 

@@ -6,16 +6,17 @@ Business &amp; Data Analytics Portfolio
 *Business Intelligence Case Study (Excel & Power BI)*
 
 # 1.1 Project Background
-The company is a mid-sized transportation technology platform operating in multiple cities, connecting passengers with intercity and inter-province travel services in Indonesia. The business focus is to drive digital transformation and bring more and more new passengers to book their transportation tickets online.
+Tripio, established in 2022 is a mid-sized transportation technology platform operating in multiple cities, connecting passengers with intercity and inter-province travel services in Indonesia. The business focus is to drive digital transformation and bring more and more new passengers to book their transportation tickets online.
 From business analyst perspective, the main challenge is not the lack of data, but the lack of structured visibility. Sales data exists in operational files, but decision makers often rely on manual Excel reports that are time-consuming to prepare and difficult to explore.
 This project was created to turn raw transactional data into a decision-ready dashboard that stakeholders can use to quickly understand performance, detect problems, and identify growth opportunities.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1: Sales Trend & Seasonality** 
-- **Category 2: Channel Performance** 
-- **Category 3: Regional Performance** 
-- **Category 4: Revenue Quality** 
+- **Sales Trend Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Ticket Sold, and Average Ticket Price.
+- **Product Level Performance:** An analysis of Tripio's various transport operators, understanding their impact on sales and returns.
+- **Channel Performance:** Measure the growth of sales coming from Apps to drive digital transformation and apps downloads.
+- **Field Activation Program Success:** An assessment of the customers offline acquisition on field on customers acquisitions and sales.
+- **Regional Comparison:** An evaluation of sales and ticket sold by region.
 
 # 1.2 Data Structure & Initial Checks
 

@@ -8,7 +8,7 @@ Business &amp; Data Analytics Portfolio
 
 Tripio, established in 2022 is a mid-sized transportation technology platform operating in multiple cities, connecting passengers with intercity and inter-province travel services in Indonesia. The business focus is to drive digital transformation and bring more and more new passengers to book their transportation tickets online.
 From business analyst perspective, the main challenge is not the lack of data, but the lack of structured visibility. Sales data exists in operational files, but decision makers often rely on manual Excel reports that are time-consuming to prepare and difficult to explore.
-This project was created to turn raw transactional data into a decision-ready dashboard that stakeholders can use to quickly understand performance, detect problems, and identify growth opportunities.
+This project was created to turn raw transactional data into a decision-ready dashboard that stakeholders can use to quickly understand performance, detect problems, and identify growth opportunities. Furthermore, thisThis dashboard was primarily designed for senior management and commercial teams to support monthly performance reviews and strategic planning.
 
 Insights and recommendations are provided on the following key areas:
 

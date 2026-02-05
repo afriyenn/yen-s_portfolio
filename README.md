@@ -26,7 +26,8 @@ Insights and recommendations are provided on the following key areas:
 - Channels (Online, Field Activation)
 - Regions
 - Dates
-  **b. Data Overview**
+
+**b. Data Overview**
 - Spike validation post-activation
 - AOV consistency across channels
 - Route distance vs. revenue distribution

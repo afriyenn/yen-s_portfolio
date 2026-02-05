@@ -4,7 +4,7 @@ Business &amp; Data Analytics Portfolio
 
 # 📊 Project 1: Sales Performance Dashboard 
   
-**  _How did the Offline Activation Program impact business growth and growth quality?_**
+_**How did the Offline Activation Program impact business growth and growth quality?**_
 
 ## 1.1 Project Background
 

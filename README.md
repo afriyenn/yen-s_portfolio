@@ -27,6 +27,7 @@ Insights and recommendations are provided on the following key areas:
 - Regions
 - Dates
 
+
 **b. Data Overview**
 - Spike validation post-activation
 - AOV consistency across channels

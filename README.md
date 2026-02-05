@@ -4,11 +4,11 @@ Business &amp; Data Analytics Portfolio
 
 # 📊 Project 1: Sales Performance Dashboard 
   
-_**How did the Offline Activation Program impact business growth and growth quality?**_
+_**How did the Field Activation Program impact business growth and growth quality?**_
 
 ## 1.1 Project Background
 
-Tripio is a mid-sized transportation booking platform operating across multiple regions in Indonesia. Between 2022 and 2024, the company experienced steady growth driven by online channels. In mid-2024, Tripio expanded its offline acquisition efforts through an offline activation program on field at major transportation hubs, aiming to accelerate app adoption and ticket sales. While this initiative successfully increased transaction volume, management began questioning whether the growth translated into sustainable revenue performance.This project was initiated to evaluate overall sales performance, assess the impact of different sales channels, and identify whether increased volume reflected healthy business growth.
+Tripio is a mid-sized transportation booking platform operating across multiple regions in Indonesia. Between 2022 and 2024, the company experienced steady growth driven by online channels. In September 2024, Tripio expanded its offline acquisition efforts through a field activation program at major transportation hubs, aiming to accelerate app adoption and ticket sales. While this initiative successfully increased transaction volume, management began questioning whether the growth translated into sustainable revenue performance.This project was initiated to evaluate overall sales performance, assess the impact of different sales channels, and identify whether increased volume reflected healthy business growth.
 
 **BIG BUSINESS QUESTION:** Is Tripio’s recent sales growth driven by healthy customer value, or by low-quality volume from offline activation?
 

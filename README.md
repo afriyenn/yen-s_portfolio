@@ -2,7 +2,7 @@
 Business &amp; Data Analytics Portfolio
 
 
-# 📊 Project 1: Sales Performance & Channel Analysis Dashboard
+# 📊 Project 1: Sales Performance Dashboard (_How did the Field Activation Program impact business growth and growth quality?_)
 
 ## 1.1 Project Background
 

@@ -42,8 +42,7 @@ Insights and recommendations are provided on the following key areas:
 
 In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing that demand expanded significantly across routes and channels. However, this growth was largely driven by lower-priced tickets, as reflected in a sharp decline in average ticket price (-49% YoY), indicating a shift toward shorter-distance routes or more aggressive pricing. While revenue still grew by 61% YoY, the overall performance highlights a clear trade-off between volume growth and pricing quality, making pricing strategy and route mix key areas for further optimization.
 
-<img width="575" height="322" alt="image" src="https://github.com/user-attachments/assets/cb0716e5-ee3f-4119-a6b6-f99310cc3014" />
-
+<img width="1734" height="966" alt="image" src="https://github.com/user-attachments/assets/03f9d016-c8ac-4f07-9fe1-689a0768add0" />
 
 
 ### b. Insights Deep Dive

@@ -56,19 +56,20 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
   
 * December marked a notable inflection point, with both ticket volume (+88% YoY) and revenue (+155% YoY) accelerating simultaneously. This indicates that peak travel periods still play a key role in driving revenue uplift, even within a high-volume growth model.
 
-<img width="1336" height="484" alt="image" src="https://github.com/user-attachments/assets/a7ed9f16-93ef-42fc-935a-76a34833d6c4" />
+<img width="765" height="299" alt="image" src="https://github.com/user-attachments/assets/84eda1f5-960d-466b-a47d-5f7312d6e46e" />
 
-### Category 2:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+### Pricing & Value Mix Dynamics
 
-[Visualization specific to category 2]
+* Growth in 2025 was clearly volume-led, not value-led Ticket volume increased sharply in the first half of the year, peaking around March–April, while AOV continued to trend downward over the same period. This divergence suggests that sales growth was primarily driven by adding more transactions rather than increasing customer value per order.
+  
+* The lowest AOV period coincided with the most aggressive volume expansion between May and July, AOV reached its lowest levels (around Rp100–105K) at the same time ticket volumes remained elevated. This pattern indicates a deliberate trade-off: Tripio accepted lower average prices to sustain demand growth, likely through more short-distance routes or price-led acquisition efforts.
+  
+* Volume alone was not sufficient to stabilize revenue momentum despite relatively high ticket volumes in mid-year, overall performance softened as AOV remained suppressed. This shows that beyond a certain point, additional volume could not fully compensate for declining ticket value, limiting revenue scalability under the existing pricing mix.
+  
+* Year-end performance shows pricing power still exists in peak periods. In November and especially December, AOV rebounded significantly alongside a sharp increase in ticket volume. This suggests that during peak travel periods, Tripio can capture higher-value demand, indicating that the low-AOV trend throughout the year is more structural than seasonal—and potentially adjustable.
+
+<img width="1533" height="625" alt="image" src="https://github.com/user-attachments/assets/09f0727f-3482-4f3e-8923-75927b1a3986" />
 
 
 ### Category 3:

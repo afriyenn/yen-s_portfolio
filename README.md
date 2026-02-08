@@ -133,7 +133,13 @@ Routes were categorized into short-distance and long-distance using ticket price
 Monthly AOV figures were smoothed to reduce extreme volatility caused by pricing outliers and partial-month operational changes, particularly during mid-year strategy shifts.
 
 * Sales Type Attribution Consistency
+  
 Sales channels (offline vs online) were assumed to be consistently labeled across the year. Any misclassification at the transaction level may slightly affect channel-level comparisons.
 
 * Field Activation Impact Intrepretation
+
+Ticket volume increases during activation periods were treated as structurally driven rather than temporary anomalies, under the assumption that no short-term price subsidies were applied.
+
 * Data Anonymization and Modification
+
+All data used in this analysis has been anonymized and modified for portfolio purposes. Company identifiers, figures, and timelines have been adjusted to preserve confidentiality while maintaining analytical integrity.

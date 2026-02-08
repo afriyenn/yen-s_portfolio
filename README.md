@@ -24,9 +24,8 @@ An interactive Power BI dashboard used to report and explore sales trends can be
 
 ## 1.2 Data Structure & Initial Checks
 
-The dataset used in this project follows a relational structure, implemented using Excel as the data source and Power BI as the data modeling layer. The data consists of four core tables with a total of approximately +54K records.
+The dataset used in this project follows a relational structure, implemented using Excel as the data source and Power BI as the data modeling layer. The data consists of four core tables with a total of approximately +54K records. These are the table overviews:
 
-Table Overview:
 **Table 1 – Transactions**
 Contains ticket-level transaction data, including transaction date, route, operator, sales channel, ticket price, and quantity sold. This table serves as the fact table for analysis.
 

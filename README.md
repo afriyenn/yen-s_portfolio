@@ -103,17 +103,22 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights above, we recommend the following actions across Operations, Sales, and Marketing teams to balance acquisition scale with long-term value creation:
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* 1. Operations — Rebalance field activation toward higher-value routes
+Field activation has proven effective in generating ticket volume, but it is currently concentrated on short-distance, low-price routes. Operations should selectively prioritize activation on higher-priced and longer-distance corridors, ensuring volume growth does not come at the expense of ticket value.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* 2. Operations — Introduce route-level guardrails during activation
+While high volume remains important, activation programs should include basic price or route mix guardrails (e.g., minimum average fare targets per location) to prevent excessive dilution of AOV during peak acquisition periods.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* 3. Sales — Prioritize onboarding of operators with strong long-distance portfolios
+To offset value dilution from short-distance demand, the sales team should focus on acquiring transport operators serving longer-distance routes, where pricing power and revenue per ticket are structurally higher.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* 4. Marketing — Shift online acquisition toward value-driven demand
+Online channels consistently deliver higher AOV and stronger long-distance penetration. Marketing should double down on online acquisition campaigns targeted at planned, higher-intent travel, positioning online as the primary driver of revenue quality.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* 5. Marketing — Convert offline-acquired users into repeat online customers
+Field activation successfully introduces new passengers, but long-term value depends on retention. Marketing should actively migrate offline-acquired users to online channels through app incentives, loyalty programs, and rebooking nudges to gradually rebalance channel contribution toward a healthier mix.
   
 
 

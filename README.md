@@ -59,7 +59,7 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 <img width="765" height="299" alt="image" src="https://github.com/user-attachments/assets/84eda1f5-960d-466b-a47d-5f7312d6e46e" />
 
 
-### 2025 Volume-Led Growth: Tickets Sold vs. AOV Trend
+### Volume-Led Growth: Tickets Sold vs. AOV Trend
 
 * Growth in 2025 was clearly volume-led, not value-led Ticket volume increased sharply in the first half of the year, peaking around March–April, while AOV continued to trend downward over the same period. This divergence suggests that sales growth was primarily driven by adding more transactions rather than increasing customer value per order.
   
@@ -72,7 +72,7 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 <img width="1533" height="625" alt="image" src="https://github.com/user-attachments/assets/09f0727f-3482-4f3e-8923-75927b1a3986" />
 
 
-### 2025 Route Type & Demand Mix Based on #Ticket Sold
+### Route Type & Demand Mix Based on #Ticket Sold
 
 * Throughout mid-2025, ticket growth was increasingly driven by short-distance routes, peaking at around 70% of total tickets in July. This marked a clear shift in demand mix compared to early 2025, where long-distance routes still dominated.
   
@@ -86,17 +86,18 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 
 
 
-### Category 4:
+### Channel Mix & Acquisition Quality
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Offline channels consistently contributed more than half of total ticket volume throughout 2025, peaking at around 65–67% during the first half of the year. This timing aligns closely with field activation efforts and confirms offline as the primary volume engine during the growth phase.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Despite higher volume, offline-acquired tickets were heavily skewed toward short-distance routes, resulting in significantly lower average ticket value. The full-year AOV for offline sales was Rp86k, less than half of online’s Rp239k, indicating a clear quality gap between the two channels.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Online channels, while contributing fewer tickets overall, consistently captured higher-value demand, particularly for long-distance routes. This suggests online sales played a more critical role in revenue quality rather than raw acquisition scale.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Taken together, the data shows that 2025 growth was driven by a deliberate trade-off: offline activation accelerated customer acquisition and market reach, while online channels preserved pricing power. Sustaining growth going forward will require balancing offline volume expansion with stronger value extraction through online channels.
 
-[Visualization specific to category 4]
+<img width="1531" height="574" alt="image" src="https://github.com/user-attachments/assets/1d2f5a5d-6876-475b-aa6a-d557adcbf17e" />
+
 
 
 

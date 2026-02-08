@@ -48,17 +48,15 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 ## Insights Deep Dive
 ### Overall Sales Trend:
 
-* Ticket sales in 2025 grew significantly compared to 2024, with total volume increasing by 218% YoY. Growth was visible across all months, indicating that demand expansion was broad-based rather than driven by a single peak period.
+* Ticket volume grew aggressively in 2025, increasing by 218% YoY compared to 2024. Growth was visible from the start of the year and remained strong across most months, indicating a broad-based demand expansion rather than a one-off spike.
   
-* The strongest acceleration in ticket volume occurred in the first half of the year, particularly between January and May, where monthly ticket growth consistently exceeded 300% YoY. This suggests that higher demand had already been established early in the year.
+* Revenue also increased by 61% YoY, but at a much slower pace than ticket growth. This gap suggests that growth was primarily driven by higher transaction volume instead of higher value per transaction.
   
-* Despite strong volume growth, revenue growth was more moderate (+69% YoY), pointing to a clear divergence between demand expansion and monetization. In most months, revenue growth lagged behind ticket growth, highlighting the impact of lower average ticket prices.
+* The strongest divergence between volume and revenue appeared in the first half of the year, where ticket growth exceeded 300% YoY while revenue growth remained below 40% in several months. This highlights an early-year growth strategy that prioritized scale over monetization efficiency.
   
-* December stood out as an exception, delivering both high volume (+88% YoY) and strong revenue growth (+331% YoY). This indicates a temporary improvement in ticket value mix during peak season, likely driven by higher travel demand toward year-end.
+* December marked a notable inflection point, with both ticket volume (+88% YoY) and revenue (+155% YoY) accelerating simultaneously. This indicates that peak travel periods still play a key role in driving revenue uplift, even within a high-volume growth model.
 
-<img width="1344" height="486" alt="image" src="https://github.com/user-attachments/assets/4be4293a-c2e0-42c7-b8c0-ef0488d9bf85" />
-
-
+<img width="1336" height="484" alt="image" src="https://github.com/user-attachments/assets/a7ed9f16-93ef-42fc-935a-76a34833d6c4" />
 
 ### Category 2:
 

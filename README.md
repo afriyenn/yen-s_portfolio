@@ -59,7 +59,7 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 <img width="765" height="299" alt="image" src="https://github.com/user-attachments/assets/84eda1f5-960d-466b-a47d-5f7312d6e46e" />
 
 
-### Pricing & Value Mix Dynamics
+### 2025 Volume-Led Growth: Tickets Sold vs. AOV Trend
 
 * Growth in 2025 was clearly volume-led, not value-led Ticket volume increased sharply in the first half of the year, peaking around March–April, while AOV continued to trend downward over the same period. This divergence suggests that sales growth was primarily driven by adding more transactions rather than increasing customer value per order.
   
@@ -72,17 +72,18 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 <img width="1533" height="625" alt="image" src="https://github.com/user-attachments/assets/09f0727f-3482-4f3e-8923-75927b1a3986" />
 
 
-### Category 3:
+### 2025 Route Type & Demand Mix Based on #Ticket Sold
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Throughout mid-2025, ticket growth was increasingly driven by short-distance routes, peaking at around 70% of total tickets in July. This marked a clear shift in demand mix compared to early 2025, where long-distance routes still dominated.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The rise of short-distance routes coincided with the lowest AOV levels of the year, reinforcing that volume growth during this period came from lower-priced products rather than higher customer value.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Starting in Q4, the route mix began to rebalance, with long-distance routes recovering to ~55% share. This shift aligned with improvements in both AOV and revenue performance toward year-end.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Overall, the data suggests that 2025 growth was structurally volume-led in mid-year due to short-distance expansion, while long-distance routes remained the primary driver of value during peak periods.
 
-[Visualization specific to category 3]
+<img width="1534" height="550" alt="image" src="https://github.com/user-attachments/assets/318418d2-1f27-46fd-b0ad-5f152a6c1c3a" />
+
 
 
 ### Category 4:

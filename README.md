@@ -24,20 +24,20 @@ An interactive Power BI dashboard used to report and explore sales trends can be
 
 ## 1.2 Data Structure & Initial Checks
 
-**a. Data Overview**
-- Orders (transaction-level)
-- Customers
-- Routes / Products (AKDP vs long-distance)
-- Channels (Online, Field Activation)
-- Regions
-- Dates
+The dataset used in this project follows a relational structure, implemented using Excel as the data source and Power BI as the data modeling layer. The data consists of four core tables with a total of approximately +54K records.
 
+Table Overview:
+**Table 1 – Transactions**
+Contains ticket-level transaction data, including transaction date, route, operator, sales channel, ticket price, and quantity sold. This table serves as the fact table for analysis.
 
-**b. Data Overview**
-- Spike validation post-activation
-- AOV consistency across channels
-- Route distance vs. revenue distribution
-- Channel misclassiffication (offline orders recorded as online)
+**Table 2 – Routes**
+Stores route attributes such as route type (short-distance vs long-distance), origin, destination, and distance category.
+
+**Table 3 – Operators**
+Contains transportation operator metadata, including operator name, region, and activation status.
+
+**Table 4 – Sales Channels**
+Includes sales channel information (offline, app, web) used to analyze channel performance and acquisition impact.
 
 ## 1.3 Executive Summary
 

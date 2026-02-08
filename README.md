@@ -19,7 +19,7 @@ Insights and recommendations are provided on the following key areas:
 - **Route Distance Mix Analysis:** Segmented demand into short-distance and long-distance routes to understand how changes in route composition influenced AOV, revenue, and overall growth sustainability.
 - **Sales Type Mix & Acquisition Quality:** ACompared offline and online sales channels to evaluate their respective roles in driving acquisition versus value, with particular attention to the impact of field activation programs on demand quality.
 
-An interactive Power BI dashboard used to report and explore sales trends can be found here 🔗 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODEzMTZkNjYtM2MzYi00MTExLTk0ZjMtZjczNTc1ODU5MGQ3IiwidCI6IjI1ODgxYzNkLThjOWQtNDQ0Ny1hNmU3LTkzMTY5NmFkNDkzZSJ9)
+An interactive Power BI dashboard used to report and explore sales trends can be found 🔗 [here](https://app.powerbi.com/view?r=eyJrIjoiZGIxNzkxN2EtZDEyMC00ZWFiLWE5YmEtODcxYzM4M2FjZWFlIiwidCI6IjI1ODgxYzNkLThjOWQtNDQ0Ny1hNmU3LTkzMTY5NmFkNDkzZSJ9)
 
 
 ## 1.2 Data Structure & Initial Checks

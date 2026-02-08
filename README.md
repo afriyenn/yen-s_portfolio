@@ -40,9 +40,9 @@ Insights and recommendations are provided on the following key areas:
 
 ### a. Overview of Findings
 
-Despite strong growth in ticket volume following the expansion of field activation programs, Tripio’s overall revenue growth remained muted. Analysis shows that offline-acquired transactions were heavily skewed toward short-distance routes with significantly lower average order value. While online channels continued to generate fewer transactions, they contributed disproportionately higher revenue per ticket. This indicates that recent growth was driven more by volume expansion than by sustainable revenue quality.
+In 2025, Tripio achieved strong top-line growth driven by a significant increase in ticket volume (+218% YoY), indicating successful demand expansion and broader market reach. Despite this growth, average ticket price declined sharply (-47% YoY), suggesting a strategic shift toward lower-priced routes, short-distance travel, or aggressive pricing to stimulate volume. Overall, revenue still grew by 69% YoY, highlighting that volume-led growth partially offset pricing pressure, but raising questions around long-term margin sustainability and pricing optimization.
+<img width="1728" height="966" alt="image" src="https://github.com/user-attachments/assets/7c1843d3-4f6a-4ad0-aac6-1075bce0c3f0" />
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 ## Insights Deep Dive
 ### Overall Sales Trend:

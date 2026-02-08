@@ -124,10 +124,14 @@ Field activation successfully introduces new passengers, but long-term value dep
 
 ## 1.5 Assumptions and Caveats:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+* Route Type Proxy Definition
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+Routes were categorized into short-distance and long-distance using ticket price thresholds as a proxy for travel distance. This method highlights value and demand differences but may not perfectly represent operational classifications.
+
+* AOV Smoothing for Analytical Clarity
+
+Monthly AOV figures were smoothed to reduce extreme volatility caused by pricing outliers and partial-month operational changes, particularly during mid-year strategy shifts.
+
+* Sales Type Attribution Consistency
+* Field Activation Impact Intrepretation
+* Data Anonymization and Modification

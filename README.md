@@ -14,10 +14,10 @@ Tripio is a mid-sized transportation booking platform operating across multiple 
 
 Insights and recommendations are provided on the following key areas:
 
-- **Sales Trend Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Ticket Sold, and Average Ticket Price.
-- **Product Level Performance:** An analysis of Tripio's various transport operators, understanding their impact on sales and returns.
-- **Channel Performance:** Measure the growth of sales coming from Apps to drive digital transformation and apps downloads.
-- **Regional Comparison:** An evaluation of sales and ticket sold by region.
+- **Overall Sales Trend:** Analyzed monthly revenue and ticket sold trends to understand overall growth patterns in 2024–2025, with a focus on identifying whether growth was driven by volume expansion or underlying value improvement.
+- **Pricing & AOV Dynamics:** Examined average ticket value trends year-over-year to assess pricing behavior, identify structural shifts in customer value, and evaluate the trade-off between ticket growth and revenue quality.
+- **Route Distance Mix Analysis:** Segmented demand into short-distance and long-distance routes to understand how changes in route composition influenced AOV, revenue, and overall growth sustainability.
+- **Sales Type Mix & Acquisition Quality:** ACompared offline and online sales channels to evaluate their respective roles in driving acquisition versus value, with particular attention to the impact of field activation programs on demand quality.
 
 ## 1.2 Data Structure & Initial Checks
 
@@ -60,7 +60,7 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 
 
 
-#### Volume-Led Growth: Tickets Sold vs. AOV Trend
+#### Pricing & AOV Dynamics
 
 * Growth in 2025 was clearly volume-led, not value-led Ticket volume increased sharply in the first half of the year, peaking around March–April, while AOV continued to trend downward over the same period. This divergence suggests that sales growth was primarily driven by adding more transactions rather than increasing customer value per order.
   
@@ -73,7 +73,7 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 <img width="1728" height="706" alt="image" src="https://github.com/user-attachments/assets/cf531128-f2d0-468a-8190-0d7719b3c1e9" />
 
 
-#### Route Type & Demand Mix Based on #Ticket Sold
+#### Route Distance Mix Analysis
 
 * Throughout mid-2025, ticket growth was increasingly driven by short-distance routes, peaking at around 70% of total tickets in July. This marked a clear shift in demand mix compared to early 2025, where long-distance routes still dominated.
   
@@ -86,7 +86,7 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 <img width="1724" height="622" alt="image" src="https://github.com/user-attachments/assets/37b897cc-f1d0-44eb-996e-8a810de21020" />
 
 
-#### Channel Mix & Acquisition Quality
+#### Sales Type Mix & Acquisition Quality
 
 * Offline channels consistently contributed more than half of total ticket volume throughout 2025, peaking at around 65–67% during the first half of the year. This timing aligns closely with field activation efforts and confirms offline as the primary volume engine during the growth phase.
   

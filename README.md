@@ -50,13 +50,14 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
 
 * Ticket sales in 2025 grew significantly compared to 2024, with total volume increasing by 218% YoY. Growth was visible across all months, indicating that demand expansion was broad-based rather than driven by a single peak period.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The strongest acceleration in ticket volume occurred in the first half of the year, particularly between January and May, where monthly ticket growth consistently exceeded 300% YoY. This suggests that higher demand had already been established early in the year.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Despite strong volume growth, revenue growth was more moderate (+69% YoY), pointing to a clear divergence between demand expansion and monetization. In most months, revenue growth lagged behind ticket growth, highlighting the impact of lower average ticket prices.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* December stood out as an exception, delivering both high volume (+88% YoY) and strong revenue growth (+331% YoY). This indicates a temporary improvement in ticket value mix during peak season, likely driven by higher travel demand toward year-end.
 
-[Visualization specific to category 1]
+<img width="1344" height="486" alt="image" src="https://github.com/user-attachments/assets/4be4293a-c2e0-42c7-b8c0-ef0488d9bf85" />
+
 
 
 ### Category 2:

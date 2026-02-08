@@ -56,7 +56,8 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
   
 * December marked a notable inflection point, with both ticket volume (+88% YoY) and revenue (+155% YoY) accelerating simultaneously. This indicates that peak travel periods still play a key role in driving revenue uplift, even within a high-volume growth model.
 
-<img width="765" height="299" alt="image" src="https://github.com/user-attachments/assets/84eda1f5-960d-466b-a47d-5f7312d6e46e" />
+<img width="1725" height="676" alt="image" src="https://github.com/user-attachments/assets/ef6718f4-9377-4d56-90d1-7dc978e28ee0" />
+
 
 
 #### Volume-Led Growth: Tickets Sold vs. AOV Trend
@@ -69,7 +70,7 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
   
 * Year-end performance shows pricing power still exists in peak periods. In November and especially December, AOV rebounded significantly alongside a sharp increase in ticket volume. This suggests that during peak travel periods, Tripio can capture higher-value demand, indicating that the low-AOV trend throughout the year is more structural than seasonal—and potentially adjustable.
 
-<img width="1533" height="625" alt="image" src="https://github.com/user-attachments/assets/09f0727f-3482-4f3e-8923-75927b1a3986" />
+<img width="1728" height="706" alt="image" src="https://github.com/user-attachments/assets/cf531128-f2d0-468a-8190-0d7719b3c1e9" />
 
 
 #### Route Type & Demand Mix Based on #Ticket Sold
@@ -82,8 +83,7 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
   
 * Overall, the data suggests that 2025 growth was structurally volume-led in mid-year due to short-distance expansion, while long-distance routes remained the primary driver of value during peak periods.
 
-<img width="1534" height="550" alt="image" src="https://github.com/user-attachments/assets/318418d2-1f27-46fd-b0ad-5f152a6c1c3a" />
-
+<img width="1724" height="622" alt="image" src="https://github.com/user-attachments/assets/37b897cc-f1d0-44eb-996e-8a810de21020" />
 
 
 #### Channel Mix & Acquisition Quality
@@ -96,9 +96,7 @@ In 2025, Tripio experienced strong growth in ticket volume (+218% YoY), showing 
   
 * Taken together, the data shows that 2025 growth was driven by a deliberate trade-off: offline activation accelerated customer acquisition and market reach, while online channels preserved pricing power. Sustaining growth going forward will require balancing offline volume expansion with stronger value extraction through online channels.
 
-<img width="1531" height="574" alt="image" src="https://github.com/user-attachments/assets/1d2f5a5d-6876-475b-aa6a-d557adcbf17e" />
-
-
+<img width="1732" height="646" alt="image" src="https://github.com/user-attachments/assets/20fa6af7-0eac-4136-8dd3-1d4848e96a04" />
 
 
 ## 1.4 Recommendations:
